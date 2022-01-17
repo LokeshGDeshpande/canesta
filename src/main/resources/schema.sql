@@ -1,0 +1,1 @@
+CREATE TABLE PROFILE(id bigint, name varchar(250), team varchar(1));
